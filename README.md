@@ -1,5 +1,5 @@
 # dotdlew.github.io
-# author: daniel harrison lewis
+# author: Daniel Lewis
 # email: daniel.lewis@protonmail.com
 
 ## Purpose
