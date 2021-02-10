@@ -190,6 +190,11 @@ main {
     background-image: url("../images/robot-gladiators-homepage.png");
 }
 
+.taskinator {
+    background-image: url("../images/taskinator-homepage.png");
+}
+
+
 /* end portfolio project images */
 
 @media screen and (max-width: 980px) {
@@ -226,10 +231,6 @@ main {
     }
     .flex-item:first-child {
         min-height: 150px;
-    }
-    .hero-banner {
-        justify-content: center;
-        text-align: center;
     }
     .contact address {
         flex-direction: column;
