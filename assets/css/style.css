@@ -198,6 +198,14 @@ main {
     background-image: url("../images/wandermapp-homepage.png");
 }
 
+.weatherdash {
+    background-image: url("../images/weather-dash-homepage.png");
+}
+
+.workday {
+    background-image: url("../images/workday-homepage.png");
+}
+
 
 /* end portfolio project images */
 
