@@ -37,5 +37,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Purpose Portfolio of Daniel H Lewis",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdlew/dotdlew.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotdlew/dotdlew.github.io/issues"
+  },
+  "homepage": "https://github.com/dotdlew/dotdlew.github.io#readme"
 }
