@@ -9,11 +9,8 @@ Portfolio of Daniel H Lewis
 * HTML
 * CSS
 * Javascript
-
-## Website
-
-
+* React
 ## Contribution
-Made with ❤️ by dlewis
+Daniel H. Lewis
 
-
+Made with https://github.com/paulhanna1933/react-portfolio
