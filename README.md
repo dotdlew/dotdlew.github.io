@@ -1,16 +1,21 @@
 # dotdlew.github.io
-# author: Daniel Lewis
-# email: daniel.lewis@protonmail.com
+Module 20 Challenge: React Portfolio
 
-## Purpose
-Portfolio of Daniel H Lewis
+# Author
+Daniel H. Lewis
+
+# Description
+React portfolio of Daniel H. Lewis
+
+# Deployment
+Heroku: https://alluring-voyageurs-95648.herokuapp.com/
+
+Github Pages: https://dotdlew.github.io/
+
+Github Repo: https://github.com/dotdlew/dotdlew.github.io
 
 ## Built With
 * HTML
 * CSS
 * Javascript
 * React
-## Contribution
-Daniel H. Lewis
-
-Made with https://github.com/paulhanna1933/react-portfolio
