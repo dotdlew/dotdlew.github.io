@@ -29,5 +29,4 @@ function Page({ currentPage }) {
     </section>
   );
 }
-
 export default Page;

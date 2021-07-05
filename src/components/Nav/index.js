@@ -5,7 +5,7 @@ function Nav(props) {
   const { pages = [], setCurrentPage, currentPage } = props;
 
   useEffect(() => {
-    document.title = capitalizeFirstLetter(currentPage);
+    document.title = capitalizeFirstLetter(currentPage.name);
   }, [currentPage]);
 
   return (
