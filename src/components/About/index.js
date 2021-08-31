@@ -8,7 +8,7 @@ function About() {
           <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-          I am a Salt Lake City native with a passion for cybersecurity and web
+          I am a Salt Lake City native with a passion for cyber security and web
           development. Ask me about my homelab.
         </p>
       </div>
